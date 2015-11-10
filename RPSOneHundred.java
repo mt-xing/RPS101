@@ -94,7 +94,7 @@ public class RPSOneHundred{
 
 		int c = (int)(Math.random() * TOTAL_MOVES);
 		if(e == (CHEAT_CODE - 1)){
-			c = (int)(Math.random() * 40) + 42;
+			c = (int)(Math.random() * 40) + CHEAT_CODE;
 		}//Michael was here
 
 		System.out.println();
