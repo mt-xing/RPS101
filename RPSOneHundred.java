@@ -132,7 +132,7 @@ public class RPSOneHundred{
 	}
 
 	/**
-	 Processes the contents of the website and processes it to return the subject
+	 Processes the contents of the website and returns the subject
 	 @param a The integer representing the move
 	 @return The string representing the move
 	 */
@@ -146,7 +146,7 @@ public class RPSOneHundred{
 	}
 
 	/**
-	 Processes the contents of the website and processes it to return the verb and
+	 Processes the contents of the website and returns the verb and
 	 the object of the sentence
 	 @param a The integer representing the winning move
 	 @param b The integer representing the losing move
@@ -197,6 +197,7 @@ public class RPSOneHundred{
 				returnStatement = returnStatement.toLowerCase();
 
 			} else {
+				//Catch all error
 				returnStatement = "\n----------\nERROR\n----------\n";
 				returnStatement += "Malformed input from server\nDumping input below\n----------\n";
 				returnStatement += temp.split("\"" + b + ".htm\">")[1]; //INPUT DUMP
