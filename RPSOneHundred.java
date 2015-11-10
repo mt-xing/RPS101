@@ -213,7 +213,7 @@ public class RPSOneHundred{
 	}
 
 	/**
-	 Grabs the HTMl content of the website and returns it
+	 Grabs the HTML content of the website and returns it
 	 @param num The integer representing the move whose website to look up
 	 @return The entire HTML content of the page from umop.com as a string.
 	 */
