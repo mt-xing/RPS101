@@ -39,7 +39,22 @@ public class RPSOneHundred{
 		//Set up the text stuff
 		System.out.println("");
 		System.out.println("");
-		System.out.println("RRRRRRRRRRRRRRRRR   PPPPPPPPPPPPPPPPP      SSSSSSSSSSSSSSS        1111111        000000000       1111111   \nR::::::::::::::::R  P::::::::::::::::P   SS:::::::::::::::S      1::::::1      00:::::::::00    1::::::1   \nR::::::RRRRRR:::::R P::::::PPPPPP:::::P S:::::SSSSSS::::::S     1:::::::1    00:::::::::::::00 1:::::::1   \nRR:::::R     R:::::RPP:::::P     P:::::PS:::::S     SSSSSSS     111:::::1   0:::::::000:::::::0111:::::1   \n  R::::R     R:::::R  P::::P     P:::::PS:::::S                    1::::1   0::::::0   0::::::0   1::::1   \n  R::::R     R:::::R  P::::P     P:::::PS:::::S                    1::::1   0:::::0     0:::::0   1::::1   \n  R::::RRRRRR:::::R   P::::PPPPPP:::::P  S::::SSSS                 1::::1   0:::::0     0:::::0   1::::1   \n  R:::::::::::::RR    P:::::::::::::PP    SS::::::SSSSS            1::::l   0:::::0 000 0:::::0   1::::l   \n  R::::RRRRRR:::::R   P::::PPPPPPPPP        SSS::::::::SS          1::::l   0:::::0 000 0:::::0   1::::l   \n  R::::R     R:::::R  P::::P                   SSSSSS::::S         1::::l   0:::::0     0:::::0   1::::l   \n  R::::R     R:::::R  P::::P                        S:::::S        1::::l   0:::::0     0:::::0   1::::l   \n  R::::R     R:::::R  P::::P                        S:::::S        1::::l   0::::::0   0::::::0   1::::l   \nRR:::::R     R:::::RPP::::::PP          SSSSSSS     S:::::S     111::::::1110:::::::000:::::::0111::::::111\nR::::::R     R:::::RP::::::::P          S::::::SSSSSS:::::S     1::::::::::1 00:::::::::::::00 1::::::::::1\nR::::::R     R:::::RP::::::::P          S:::::::::::::::SS      1::::::::::1   00:::::::::00   1::::::::::1\nRRRRRRRR     RRRRRRRPPPPPPPPPP           SSSSSSSSSSSSSSS        111111111111     000000000     111111111111");
+		System.out.println("RRRRRRRRRRRRRRRRR   PPPPPPPPPPPPPPPPP      SSSSSSSSSSSSSSS        1111111        000000000       1111111   ");
+		System.out.println("R::::::::::::::::R  P::::::::::::::::P   SS:::::::::::::::S      1::::::1      00:::::::::00    1::::::1   ");
+		System.out.println("R::::::RRRRRR:::::R P::::::PPPPPP:::::P S:::::SSSSSS::::::S     1:::::::1    00:::::::::::::00 1:::::::1   ");
+		System.out.println("RR:::::R     R:::::RPP:::::P     P:::::PS:::::S     SSSSSSS     111:::::1   0:::::::000:::::::0111:::::1   ");
+		System.out.println("  R::::R     R:::::R  P::::P     P:::::PS:::::S                    1::::1   0::::::0   0::::::0   1::::1   ");
+		System.out.println("  R::::R     R:::::R  P::::P     P:::::PS:::::S                    1::::1   0:::::0     0:::::0   1::::1   ");
+		System.out.println("  R::::RRRRRR:::::R   P::::PPPPPP:::::P  S::::SSSS                 1::::1   0:::::0     0:::::0   1::::1   ");
+		System.out.println("  R:::::::::::::RR    P:::::::::::::PP    SS::::::SSSSS            1::::l   0:::::0 000 0:::::0   1::::l   ");
+		System.out.println("  R::::RRRRRR:::::R   P::::PPPPPPPPP        SSS::::::::SS          1::::l   0:::::0 000 0:::::0   1::::l   ");
+		System.out.println("  R::::R     R:::::R  P::::P                   SSSSSS::::S         1::::l   0:::::0     0:::::0   1::::l   ");
+		System.out.println("  R::::R     R:::::R  P::::P                        S:::::S        1::::l   0:::::0     0:::::0   1::::l   ");
+		System.out.println("  R::::R     R:::::R  P::::P                        S:::::S        1::::l   0::::::0   0::::::0   1::::l   ");
+		System.out.println("RR:::::R     R:::::RPP::::::PP          SSSSSSS     S:::::S     111::::::1110:::::::000:::::::0111::::::111");
+		System.out.println("R::::::R     R:::::RP::::::::P          S::::::SSSSSS:::::S     1::::::::::1 00:::::::::::::00 1::::::::::1");
+		System.out.println("R::::::R     R:::::RP::::::::P          S:::::::::::::::SS      1::::::::::1   00:::::::::00   1::::::::::1");
+		System.out.println("RRRRRRRR     RRRRRRRPPPPPPPPPP           SSSSSSSSSSSSSSS        111111111111     000000000     111111111111");
 		System.out.println("");
 		System.out.println("");
 		System.out.println("By: Michael Xing");
